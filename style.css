@@ -1,0 +1,6 @@
+.section-menu {
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  text-align: left; /* Ubah alignment menjadi left */
+}
